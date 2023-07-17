@@ -1,0 +1,24 @@
+
+.body {
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(170, 133, 205);
+    padding: 2rem;
+}
+
+.navigation a {
+    color: black;
+    margin: 2rem;
+}
+
+.main {
+    margin: 1rem;
+}
+
+
+.aside {
+    background-color: blueviolet;
+    padding: 2 rem;
+}
